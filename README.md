@@ -26,7 +26,7 @@ I’m a student developer currently in high school with a strong interest in sof
 ### EthaNet
 A developing AI language model focused on experimentation with custom AI systems and language processing.
 
-**Tech Used**
+**Languages Used**
 - JavaScript
 - Node.js
 - JSON
