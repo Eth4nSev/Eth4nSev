@@ -33,7 +33,7 @@ A developing AI language model focused on experimentation with custom AI systems
 
 ---
 
-#StreamOS
+### StreamOS
 A music player app designed to organize and play imported music files.
 
 **Resources Used**
