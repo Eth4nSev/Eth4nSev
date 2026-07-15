@@ -1,4 +1,4 @@
-# Ethan
+# Ethan Severy
 **Student Developer | High School**
 
 I’m a student developer currently in high school with a strong interest in software development, web technologies, and AI. I use GitHub as a portfolio to showcase projects I’m building and technologies I’m learning.
