@@ -26,38 +26,32 @@ I’m a student developer currently in high school with a strong interest in sof
 ### EthaNet
 A developing AI language model focused on experimentation with custom AI systems and language processing.
 
-**Languages Used**
+**Resources Used**
 - JavaScript
 - Node.js
 - JSON
 
 ---
 
+#StreamOS
+A music player app designed to organize and play imported music files.
+
+**Resources Used**
+- TypeScript
+- Swift
+- React Native
+- Expo
+- Expo Router
+
+---
+
 ### CLI Web Terminal
 A browser-based command line interface that simulates a terminal environment directly in a webpage.
 
-**Languages Used**
+**Resources Used**
 - HTML
 - CSS
 - JavaScript
-
----
-
-### StreamOS
-A browser-based music player designed to organize and play imported music files.
-
-**Languages Used**
-- HTML
-- CSS
-- JavaScript
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eth4nSev&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eth4nSev&layout=compact)
 
 ---
 
