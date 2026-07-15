@@ -12,12 +12,15 @@ I’m a student developer currently in high school with a strong interest in sof
 - CSS
 - JavaScript
 - C++
+- Typescript
 
 **Tools / Software**
 - Visual Studio Code
 - Node.js
 - Git
 - Github
+- React Native
+- Expo
 
 ---
 
